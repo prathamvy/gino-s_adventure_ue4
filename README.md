@@ -1,6 +1,6 @@
 # gino-s_adventure_ue4
 
-A UE4 I built using Unity 2D for my Computer Graphics Mini Project 2022. :) 
+A UE4 game I built using Unity 2D for my Computer Graphics Mini Project 2022. :) 
 
 ![image](https://github.com/prathamvy/gino-s_adventure_ue4/assets/100375062/cc7fc3a7-3f43-4774-8d1c-ea816be75b8f)
 
